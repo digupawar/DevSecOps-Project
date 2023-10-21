@@ -18,7 +18,7 @@
 
 **Step 1: Launch EC2 (Ubuntu 22.04):**
 
-- Provision an EC2 instance on AWS with Ubuntu 22.04.
+- Provision an EC2 instance atleast **t2.large** on AWS with Ubuntu 22.04.
 - Connect to the instance using SSH.
 
 **Step 2: Clone the Code:**
